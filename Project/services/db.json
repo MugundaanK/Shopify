@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "user1",
+      "password": "user1password"
+    },
+    {
+      "fname": "Mugundaan",
+      "lname": "Kumar",
+      "email": "mugunth@gmail.com",
+      "password": "Mugunth@19",
+      "id": 2
+    },
+    {
+      "fnmae": "Karthik",
+      "lname": "B",
+      "email": "karthik@gmail.com",
+      "password": "karthik",
+      "id": 3
+    },
+    {
+      "fnmae": "Gowsick",
+      "lname": "R",
+      "email": "gowsick@gmail.com",
+      "password": "Gowsick",
+      "id": 4
+<<<<<<< HEAD
+    },
+    {
+      "fnmae": "mugunth",
+      "lname": "K",
+      "email": "2k19cse051@kiot.ac.in",
+      "password": "Mugunth",
+      "id": 5
+=======
+>>>>>>> 9545e20a93feee1bf998978b67c73a92db5dabca
+    }
+  ]
+}

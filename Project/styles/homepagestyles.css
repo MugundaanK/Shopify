@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 700;
+    padding: 15px;
+    background-color: #045E45;
+    color: white;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+=======
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 70px;
+    font-weight: 700;
+    padding: 15px;
+    background-color: #045E45;
+    color: white;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+>>>>>>> 9545e20a93feee1bf998978b67c73a92db5dabca
+}
